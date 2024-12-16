@@ -10,7 +10,7 @@ fi
 MINICONDA_URL="https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py39_24.9.2-0-Linux-x86_64.sh"
 MINICONDA_DEST="/home/share"
 
-OH_MY_ZSH_RC_URL="https://pan.biubush.cn/d/download/amd64/oh-my-zsh-rc.tar.gz"
+OH_MY_ZSH_RC_URL="https://pan.biubush.cn/d/download/amd64/oh-my-zsh-pkg.tar.gz"
 OH_MY_ZSH_RC_DEST="/home/share"
 
 SETUP_SCRIPT_URL="https://pan.biubush.cn/d/download/amd64/setup-zsh-conda.sh"
